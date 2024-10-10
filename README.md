@@ -28,12 +28,14 @@ If you don't have Rust installed, follow these steps to install it on WSL or Lin
 
 ```
 rustc --version
+```
+```
 cargo --version
 ```
 
-Step 2: Run it:
+### Step 2: Run riverraid:
 
-1. Build:
+1. Build(you can just run):
 ```
 cargo build
 ```
