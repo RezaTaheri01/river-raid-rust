@@ -29,23 +29,24 @@ If you don't have Rust installed, follow these steps to install it on WSL or Lin
 3. Follow the on-screen instructions to complete the installation.
 4. Verify that Rust and Cargo are installed correctly:
 
+```bash
+rustc --version
 ```
-   rustc --version
-```
-```
-   cargo --version
+```bash
+cargo --version
 ```
 
 ### Step 2: Run riverraid:
 
 1. Build(you can just run):
-```
-   cargo build
+2. 
+```bash
+cargo build
 ```
 
 2. Run
-```
-   cargo run
+```bash
+cargo run
 ```
 
 ## Todos
