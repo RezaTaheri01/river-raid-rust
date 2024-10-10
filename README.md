@@ -31,22 +31,31 @@ If you don't have Rust installed, follow these steps to install it on WSL or Lin
 
 ```bash
 rustc --version
+
 ```
 ```bash
 cargo --version
+
 ```
 
-### Step 2: Run riverraid:
+### Step 2: Clone and Run riverraid:
 
-1. Build(you can just run):
-2. 
+1. Clone repository:
+```bash
+git clone https://github.com/RezaTaheri01/river-raid-rust.git
+```
+
+2. Build(you can just run):
+
 ```bash
 cargo build
+
 ```
 
-2. Run
+3. Run
 ```bash
 cargo run
+
 ```
 
 ## Todos
