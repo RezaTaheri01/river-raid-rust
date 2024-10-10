@@ -2,6 +2,9 @@
 
 A text based river raid clone in Rust base on https://github.com/jadijadi/riverraidrust.git
 
+![riverraid](https://github.com/user-attachments/assets/6cee2c05-008c-4bb0-94ed-a4efbeac479d)
+
+
 ## Prerequisites
 
 Make sure you have the following installed:
