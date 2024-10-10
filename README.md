@@ -3,7 +3,7 @@
 A text based river raid clone in Rust base on https://github.com/jadijadi/riverraidrust.git
 
 ![riverraid](https://github.com/user-attachments/assets/6cee2c05-008c-4bb0-94ed-a4efbeac479d)
-
+<br>
 
 ## Prerequisites
 
@@ -30,25 +30,25 @@ If you don't have Rust installed, follow these steps to install it on WSL or Lin
 4. Verify that Rust and Cargo are installed correctly:
 
 ```
-rustc --version
+   rustc --version
 ```
 ```
-cargo --version
+   cargo --version
 ```
 
 ### Step 2: Run riverraid:
 
 1. Build(you can just run):
 ```
-cargo build
+   cargo build
 ```
 
 2. Run
 ```
-cargo run
+   cargo run
 ```
 
-# Todo
+## Todos
 - [ ] Enemy
 - [ ] Fuel 
 - [ ] Shooting
