@@ -47,3 +47,9 @@ cargo build
 ```
 cargo run
 ```
+
+# Todo
+- [ ] Enemy
+- [ ] Fuel 
+- [ ] Shooting
+- [ ] Symbol emojies
