@@ -125,7 +125,7 @@ fn physics(mut world: World) -> std::io::Result<World> {
         Equal => {}
     };
 
-    const MIN_GAP: u16 = 5; // Define a minimum gap between the left and right boundaries
+    const MIN_GAP: u16 = 9; // Define a minimum gap between the left and right boundaries
 
     // Update left boundary
     if world.next_left == world.map[0].0 && rng.gen_range(0..10) >= 7 {
